@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["Carrot SDK Contributors"]
 description = "Rust SDK for interacting with the Carrot Protocol on Solana"
 license = "MIT"
-repository = "https://github.com/your-repo/carrot-sdk"
+repository = "https://github.com/hogyzen12/carrot-sdk-v3"
 
 [dependencies]
 borsh = "1.5.7"
